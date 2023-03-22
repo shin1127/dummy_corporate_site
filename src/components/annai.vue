@@ -1,11 +1,11 @@
 <template>
 <div>
     <div class="main">
-        <img src="@/assets/build.jpg" id="main_img">
+        <img src="@/public//build.jpg" id="main_img">
         <br><br>
         <div class="greeting_list">
             <div class="greeting_card">
-                <img src="@/assets/shatyo.jpg" id="shatyo_img">
+                <img src="@/public//shatyo.jpg" id="shatyo_img">
             </div>
             <div class="greeting_card">
             私たち日本エンジニアリングは、お客様が抱える課題を解決するために最適なソリューションを提供することをモットーに、日々邁進しております。

@@ -1,7 +1,7 @@
 <template>
 <div>
     <div>
-    <img src="@/assets/build.jpg" id="main_img">
+    <img src="@/public/build.jpg" id="main_img">
     </div>
     <br><br>
     <div class="main">
