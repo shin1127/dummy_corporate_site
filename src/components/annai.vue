@@ -6,6 +6,7 @@
         <div class="greeting_list">
             <div class="greeting_card">
                 <img src="@/public//shatyo.jpg" id="shatyo_img">
+                <div class="ceo_name">代表  与謝野 明子</div>
             </div>
             <div class="greeting_card">
             私たち日本エンジニアリングは、お客様が抱える課題を解決するために最適なソリューションを提供することをモットーに、日々邁進しております。
@@ -55,6 +56,9 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+}
+.ceo_name{
+    font-weight:bold
 }
 
 </style>
