@@ -7,7 +7,7 @@
       <router-link to="/jirei">事例</router-link>
       <router-link to="/annai">会社案内</router-link>
       <a href="https://docs.google.com/forms/d/1hZcxOJjXwlZOMT7JsMLDbzIi-eVTOeVWzhPx0_QKGpA/" target="_blank">
-              Contact
+              お問い合わせ
             </a>
     </div>
     <!--上記のリンクタグで設定したコンポーネントが表示される場所です。-->
